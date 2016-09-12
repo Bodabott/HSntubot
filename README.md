@@ -1,4 +1,4 @@
-# HSntubot echo
+# HSntubot keyboard
 import sys
 import time
 import telepot
